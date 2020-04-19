@@ -2,30 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>驴初墨</title>
-    <link>http://example.org/</link>
+    <link>https://jeff-fresh.github.io/</link>
     <description>Recent content on 驴初墨</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:34:40 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 01:25:02 +0800</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeff-fresh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>如何用hugo搭建个人博客</title>
+      <link>https://jeff-fresh.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Mon, 20 Apr 2020 01:25:02 +0800</pubDate>
+      
+      <guid>https://jeff-fresh.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>#如何用hugo搭建个人博客
+1.安装Hugo
+2.步骤2：创建一个新站点
+  </description>
+    </item>
+    
+    <item>
       <title>开博大吉</title>
-      <link>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <link>https://jeff-fresh.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
       <pubDate>Mon, 20 Apr 2020 00:34:40 +0800</pubDate>
       
-      <guid>http://example.org/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <guid>https://jeff-fresh.github.io/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
       <description>#Welcome to my Blog!!! 欢迎欢迎！！！</description>
     </item>
     
     <item>
       <title>Start</title>
-      <link>http://example.org/posts/start/</link>
+      <link>https://jeff-fresh.github.io/posts/start/</link>
       <pubDate>Mon, 20 Apr 2020 00:34:17 +0800</pubDate>
       
-      <guid>http://example.org/posts/start/</guid>
+      <guid>https://jeff-fresh.github.io/posts/start/</guid>
       <description></description>
     </item>
     
