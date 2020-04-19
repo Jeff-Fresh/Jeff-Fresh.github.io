@@ -17,8 +17,18 @@
       <pubDate>Mon, 20 Apr 2020 01:42:44 +0800</pubDate>
       
       <guid>https://jeff-fresh.github.io/posts/%E5%A6%82%E4%BD%95%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
-      <description>#用hugo搭建个人博客的教程。 1.
-    </description>
+      <description>#用hugo搭建个人博客的教程。
+使用Hugo建立本地网站,详细教程见官网： https://gohugo.io/getting-started/quick-start/
+简单步骤：
+1.下载&amp;mdash;&amp;gt;解压&amp;mdash;&amp;gt;在Hugo同级目录新建一个文件夹，比如sites, 用来保存网站内容：
+2.将Hugo的安装目录加入到环境变量
+3.初始化新网站内容
+进入sites目录，【shift+右键】弹出右键菜单，选择“在此处打开命令窗口”，执行命令
+hugo new site websitename //websitename 是自定义的，建议设置为网站主域名，以免混淆. 4.添加主题，到这里【https://themes.gohugo.io/】找一款自己喜欢的主题，找到其Github repo地址，命令行操作
+git clone https://github.com/silvanocerza/spectrum.git // 后面的主题是随便挑的 5.新建文章，命令行操作
+【hugo new posts/xxxxxx.md】 // markdown 格式文档，以后可在别处写好.md格式的文档，然后直接放入public目录 6.修改网站config.toml配置文件
+7.本地预览博客效果，
+hugo server </description>
     </item>
     
     <item>
